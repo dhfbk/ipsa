@@ -1,4 +1,4 @@
-# Italian_Parliament_Symspell
+# Italian Parliamentary Speeches and other Acts - IPSA corpus
 
 ## Data
 
